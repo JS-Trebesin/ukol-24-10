@@ -54,7 +54,7 @@ Web uložte do *tohoto* repozitáře do složky **[ukol2-darkmode](https://githu
 
 ## 3. úkol - prezenčka
 
-Do složky **[ukol3-prezencka](https://github.com/JS-Trebesin/ukol-24-10/tree/main/ukol3-prezencka)** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
+Do složky **[ukol3-prezencka](/main/ukol3-prezencka)** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
 Web není potřeba stylovat.
 
 
