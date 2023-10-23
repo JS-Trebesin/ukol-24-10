@@ -42,14 +42,14 @@ Source Sans Pro
 ale můžete zvolit i jiný, který se vám líbí
 
 
-## 2. úkol
+## 2. úkol - dark mode web
 
 Vytvořte webovou stránku, která bude obsahovat nadpis, paragraf a líné, nic nedělající tlačítko. Všechny tyto prvky budou na středu. V levém horním rohu bude druhé tlačítko s ikonou měsíce, které bude přepínat web z light modu na dark mode. Pro web využijte své barevné schéma a fonty, které jste zvolili v prvním úkolu.
 Web uložte do *tohoto* repozitáře do složky **web**.
 
 
 
-## 3. úkol 
+## 3. úkol - prezenčka
 
 Do složky **for** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
 Web není potřeba stylovat.
