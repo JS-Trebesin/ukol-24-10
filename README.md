@@ -45,7 +45,7 @@ Příklady oblíbených a často používaných Google fontů:
 
 ale můžete zvolit i jiný, který se vám líbí
 
-D)
+### D) odkaz
 
 Do textového souboru v **[ukol1-odkaz](/ukol1-odkaz)** vložte odkaz na svůj repozitář.
 
