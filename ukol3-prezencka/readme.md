@@ -1,6 +1,6 @@
 # Sem odevzdávejte úkol 3. - prezenčka
 
-Do složky **for** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
+Do této složky uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
 Web není potřeba stylovat.
 
 
