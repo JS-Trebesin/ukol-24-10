@@ -10,7 +10,7 @@
 ### A) vytvořte *nový* vlastní repozitář na Githubu
 
 ### B) barvy
-Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou až tří barev pro své webové stránky.
+Do textového souboru nebo do readme.md ve svém repozitáři nahrajte hex kód dvou až tří barev pro své webové stránky.
 Měli byste vybrat kombinaci barev, které spolu budou dobře vypadat. Žádné full red (#FF0000) + full blue (#0000FF) apod. Barvy využijete v budoucnu pro různé webové stránky.
 
 Těmito barvami budete obarvovat prvky na webu, např. tlačítka, popř. části grafiky (ikony, atp.). Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, přidejte i barvu pozadí.
@@ -45,6 +45,9 @@ Příklady oblíbených a často používaných Google fontů:
 
 ale můžete zvolit i jiný, který se vám líbí
 
+D)
+
+Do textového souboru v **[ukol1-odkaz](/ukol1-odkaz)** vložte odkaz na svůj repozitář.
 
 ## 2. úkol - dark mode web
 
