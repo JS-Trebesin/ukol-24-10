@@ -11,7 +11,7 @@
 
 ### B) barvy
 Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou až tří barev pro své webové stránky.
-Měli byste vybrat kombinaci barev, které spolu budou dobře vypadat. Žádné full red (#FF000) + full blue (#0000FF) apod. Barvy využijete v budoucnu pro různé webové stránky.
+Měli byste vybrat kombinaci barev, které spolu budou dobře vypadat. Žádné full red (#FF0000) + full blue (#0000FF) apod. Barvy využijete v budoucnu pro různé webové stránky.
 
 Těmito barvami budete v obarvovat prvky na webu, např. tlačítka, popř. části grafiky (ikony, atp.). Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
 K výběru vhodné kombinace barev můžete zvolit ze spousty stránek, např.:
