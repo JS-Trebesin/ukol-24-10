@@ -1,1 +1,1 @@
-#Sem odevzdávejte úkol 2. - dark mode web
+# Sem odevzdávejte úkol 2. - dark mode web
