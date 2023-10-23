@@ -15,21 +15,21 @@ Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód 
 Tyto barvy se týkají prvků na webu, např. tlačítek, popř. grafiky. Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
 K výběru vhodných barev, které spolu budou vypadat dobře, můžete zvolit ze spousty stránek, např.:
 
-[https://coolors.co/](url)
+[Coolors](https://coolors.co/)
 
-[https://www.happyhues.co/palettes/1](url)
+[Happy Hues](https://www.happyhues.co/palettes/1)
 
-[https://mycolor.space/](url)
+[MyColor Space](https://mycolor.space/)
 
-[https://color.adobe.com/create/color-wheel](url)
+[Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
 
-[https://www.canva.com/colors/color-palettes/?search=blue%20and%20red](url)
+[Canva](https://www.canva.com/colors/color-palettes/?search=blue%20and%20red)
 
-[https://colorhunt.co/](url)
+[ColorHunt](https://colorhunt.co)
 
 ### C) font
 
-Z Google fonts [https://fonts.google.com/](url) zvolte font, který budete využívat pro svůj web pro hlavní text a další font, který bude pro nadpisy.
+Z [Google fonts](https://fonts.google.com/) zvolte font, který budete využívat pro svůj web pro hlavní text a další font, který bude pro nadpisy.
 
 Jaké fonty k sobě jdou můžete zjistit, pokud budete googlit "(název fontu) font pairing) popř. Figma nabízí páry k oblíbeným Google fontům [https://www.figma.com/google-fonts/](url)
 Příklady oblíbených a často používaných Google fontů: 
@@ -54,7 +54,7 @@ Web uložte do *tohoto* repozitáře do složky **[ukol2-darkmode](https://githu
 
 ## 3. úkol - prezenčka
 
-Do složky **[ukol3-prezencka]([https://github.com/JS-Trebesin/ukol-24-10/tree/main/ukol2-darkmode](https://github.com/JS-Trebesin/ukol-24-10/tree/main/ukol3-prezencka))**. uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
+Do složky **[ukol3-prezencka](https://github.com/JS-Trebesin/ukol-24-10/tree/main/ukol3-prezencka)** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
 Web není potřeba stylovat.
 
 
