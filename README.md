@@ -1,6 +1,7 @@
 # Úkol 24.10.
 
 **Úkoly vypracujte do 30.10. 23:59**
+
 Úkoly budou známkované
 
 ## 1. úkol - web design - barvy + font
