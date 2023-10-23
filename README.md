@@ -7,9 +7,9 @@
 ## 1. úkol - web design - barvy + font
 
 
-Vytvořte *nový* vlastní repozitář na Githubu. 
+### A) Vytvořte *nový* vlastní repozitář na Githubu. 
 
-### A) barvy
+### B) barvy
 Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou barev pro své webové stránky. 
 
 Tyto barvy se týkají prvků na webu, např. tlačítek, popř. grafiky. Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
@@ -27,7 +27,7 @@ K výběru vhodných barev, které spolu budou vypadat dobře, můžete zvolit z
 
 [https://colorhunt.co/](url)
 
-### B) font
+### C) font
 
 Z Google fonts [https://fonts.google.com/](url) zvolte font, který budete využívat pro svůj web pro hlavní text a další font, který bude pro nadpisy.
 
