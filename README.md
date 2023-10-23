@@ -7,7 +7,7 @@
 ## 1. úkol - web design - barvy + font
 
 
-### A) vytvořte *nový* vlastní repozitář na Githubu. 
+### A) vytvořte *nový* vlastní repozitář na Githubu
 
 ### B) barvy
 Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou barev pro své webové stránky. 
