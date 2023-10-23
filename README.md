@@ -10,10 +10,11 @@
 ### A) vytvořte *nový* vlastní repozitář na Githubu
 
 ### B) barvy
-Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou barev pro své webové stránky. 
+Do textového souboru nebo do readme.md v daném repozitáři nahrajte hex kód dvou až tří barev pro své webové stránky.
+Měli byste vybrat kombinaci barev, které spolu budou dobře vypadat. Žádné full red (#FF000) + full blue (#0000FF) apod. Barvy využijete v budoucnu pro různé webové stránky.
 
-Tyto barvy se týkají prvků na webu, např. tlačítek, popř. grafiky. Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
-K výběru vhodných barev, které spolu budou vypadat dobře, můžete zvolit ze spousty stránek, např.:
+Těmito barvami budete v obarvovat prvky na webu, např. tlačítka, popř. části grafiky (ikony, atp.). Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
+K výběru vhodné kombinace barev můžete zvolit ze spousty stránek, např.:
 
 [Coolors](https://coolors.co/)
 
