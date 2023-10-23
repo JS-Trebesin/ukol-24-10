@@ -35,17 +35,12 @@ Z [Google fonts](https://fonts.google.com/) zvolte font, který budete využíva
 Druhý font do kombinace můžete najít tak, že pogooglíte "(název prvního fontu) font pairing" popř. Figma nabízí páry k oblíbeným Google fontům [https://www.figma.com/google-fonts/](url)
 Příklady oblíbených a často používaných Google fontů: 
 
-Roboto
-
-Montserrat
-
-Open Sans
-
-Lato
-
-Raleway
-
-Source Sans Pro
+- Roboto
+- Montserrat
+- Open Sans
+- Lato
+- Raleway
+- Source Sans Pro
 
 ale můžete zvolit i jiný, který se vám líbí
 
