@@ -8,7 +8,7 @@
 
 Vytvořte *nový* vlastní repozitář na Githubu. 
 
-### A) - barvy
+### A) barvy
 Do textového souboru nebo do readme v daném repozitáři nahrajte hex kód dvou barev pro své webové stránky. 
 
 Tyto barvy se týkají prvků na webu, např. tlačítek, popř. grafiky. Pokud chcete i jinou barvu pozadí, než je tmavá (tmavě šedá, černá) nebo bílá, připdejte i barvu pozadí.
