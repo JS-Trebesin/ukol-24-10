@@ -4,6 +4,8 @@
 
 Úkoly budou známkované
 
+*Pro tyto úkoly není potřeba nic forkovat, ani vytvářet pull requesty. Svůj kód/odkaz nahráváte do tohoto repozitáře. Součástí prvního úkolu je však vytvoření nového, vlastního repozitáře, odkaz na něj pak nahrajete sem.*
+
 ## 1. úkol - web design - barvy + font
 
 
