@@ -53,4 +53,4 @@ Web uložte do *tohoto* repozitáře do složky **web**.
 
 Do složky **for** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
 
-Bonus pro ty, kteří místo promptu využijí input v html.
+Zlatý bludišťák pro ty, kteří místo promptu využijí input v html.
