@@ -15,10 +15,15 @@ Tyto barvy se týkají prvků na webu, např. tlačítek, popř. grafiky. Pokud 
 K výběru vhodných barev, které spolu budou vypadat dobře, můžete zvolit ze spousty stránek, např.:
 
 [https://coolors.co/](url)
+
 [https://www.happyhues.co/palettes/1](url)
+
 [https://mycolor.space/](url)
+
 [https://color.adobe.com/create/color-wheel](url)
+
 [https://www.canva.com/colors/color-palettes/?search=blue%20and%20red](url)
+
 [https://colorhunt.co/](url)
 
 ### B) font
