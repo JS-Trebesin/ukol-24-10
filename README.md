@@ -57,7 +57,7 @@ Web uložte do *tohoto* repozitáře do složky **[ukol2-darkmode](/ukol2-darkmo
 
 ## 3. úkol - prezenčka
 
-Do složky **[ukol3-prezencka](/ukol3-prezencka)** uložte kód, který na základě se zeptá uživatele na číslo na základě toho vytvoří několik odrážet seznamu v html.
+Do složky **[ukol3-prezencka](/ukol3-prezencka)** uložte kód, který se zeptá uživatele na číslo a na základě toho vytvoří několik odrážet seznamu v html.
 Web není potřeba stylovat.
 
 
