@@ -46,7 +46,7 @@ ale můžete zvolit i jiný, který se vám líbí
 ## 2. úkol - dark mode web
 
 Vytvořte webovou stránku, která bude obsahovat nadpis, paragraf a líné, nic nedělající tlačítko. Všechny tyto prvky budou na středu. V levém horním rohu bude druhé tlačítko s ikonou měsíce, které bude přepínat web z light modu na dark mode. Pro web využijte své barevné schéma a fonty, které jste zvolili v prvním úkolu.
-Web uložte do *tohoto* repozitáře do složky **[ukol2-darkmode](https://github.com/JS-Trebesin/ukol-24-10/tree/main/ukol2-darkmode)**.
+Web uložte do *tohoto* repozitáře do složky **[ukol2-darkmode](/ukol2-darkmode)**.
 
 
 
