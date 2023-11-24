@@ -1,4 +1,4 @@
-# Úkoly 24.10.
+# Úkoly 24.10.2023
 
 **Úkoly vypracujte do 30.10. 23:59**
 
